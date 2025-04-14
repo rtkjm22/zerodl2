@@ -29,3 +29,4 @@ env.bak/
 
 # 自分用に作った一時Notebookなど（必要なら）
 Untitled.ipynb
+dataset/
